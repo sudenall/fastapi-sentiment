@@ -16,7 +16,7 @@ Supports **English** (default) and **Turkish**, with customizable lexicons, weig
 
 ## Quickstart
 
-### 1️Install dependencies
+### Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
