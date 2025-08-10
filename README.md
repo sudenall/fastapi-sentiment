@@ -134,7 +134,7 @@ Note: Advanced usage – sector profiles (default, restaurant, etc.) supported.
     <img src="images/swagger.png" alt="Swagger UI" width="300"/>
   </a>
   <a href="images/predict_en.png">
-    <img src="images/predict_en.png" alt="English Prediction" width="300"/>
+    <img src="images/predict_eng.png" alt="English Prediction" width="300"/>
   </a>
   <a href="images/predict_tr.png">
     <img src="images/predict_tr.png" alt="Turkish Prediction" width="300"/>
