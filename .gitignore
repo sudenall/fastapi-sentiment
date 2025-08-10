@@ -1,0 +1,38 @@
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.py.class
+
+# Virtual environment
+venv/
+.env/
+.env.*  
+*.env  
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Test and coverage reports
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks checkpoints (if any)
+.ipynb_checkpoints/
+
+# Byte-compiled & temporary files
+*.swp
+*.swo
+*.tmp
+*.bak
